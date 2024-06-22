@@ -6,5 +6,4 @@ The Password Generator is a simple yet powerful tool that helps users create str
 - **Generates random passwords**
 - **Supports different character sets (uppercase, lowercase, numbers, special characters)**
 - **Customizable password length**
-- **Command-line interface (CLI) support**
 - **Lightweight and easy to use**
